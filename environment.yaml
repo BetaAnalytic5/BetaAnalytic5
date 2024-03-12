@@ -1,0 +1,40 @@
+name: BetaA
+channels:
+  - defaults
+  - conda-forge
+  - intel
+dependencies:
+  # Add more packages needed in your environment.
+  # Development
+  - python=3.11
+    # a
+    # b  
+  - black==23.9.1  # code formatter
+    # c
+    # d
+    # e
+    # f
+  - flake8==6.0.0 
+    # g
+    # h
+    # i
+    # j
+    # k
+    # l
+    # m
+  - matplotlib==3.8.0  # plotting library
+    # n
+  - numpy==1.23.5
+    # o
+    # p
+  - pandas==2.0.3
+    # q
+    # r  
+    # s  
+    # t
+    # u
+    # v
+    # w
+    # x
+    # y
+    # z
